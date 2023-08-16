@@ -118,7 +118,7 @@ const Quiz = ({ navigation }) => {
             <View style={styles.bottombtn}>
               {qnumber !== 9 && (
                 <TouchableOpacity style={styles.btn} onPress={handleNextPress}>
-                  <Text style={styles.btntext}>NEXT</Text>
+                  <Text style={styles.btntext}>SKIP</Text>
                 </TouchableOpacity>
               )}
               {qnumber === 9 && (
