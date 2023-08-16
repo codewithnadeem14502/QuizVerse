@@ -44,10 +44,6 @@ Key Features:
 
 
 
-GitHub repo : https://github.com/codewithnadeem14502/QuizVerse
-
-
-
 
 
 The Impact 💪:
